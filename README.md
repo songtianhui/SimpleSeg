@@ -198,7 +198,13 @@ pred_mask = pred_mask.sum(axis=2)
 pred_mask = (pred_mask > 0).astype(np.uint8)
 ```
 
-## 6. Citation
+
+## 7. Data Processing
+
+For the data processing of contour coordinates, refer to [data/data.py](data/data.py).
+
+
+## 8. Citation
 
 ```
 @article{simpleseg2025,
