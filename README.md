@@ -15,7 +15,7 @@
 
 <div align="center">
   <a href=""><img src="figures/logo.png" height="16" width="16" style="vertical-align:middle"><b> Paper</b></a>  |  
-  <a href="https://huggingface.co/sthui/SimpleSeg"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="16" width="16" style="vertical-align:middle"><b> HuggingFace</b></a>
+  <a href="https://huggingface.co/collections/sthui/simpleseg"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="16" width="16" style="vertical-align:middle"><b> HuggingFace</b></a>
 </div>
 
 
@@ -125,7 +125,7 @@ We introduce how to use our model at inference stage using transformers library.
 from PIL import Image
 from transformers import AutoModelForCausalLM, AutoProcessor
 
-model_path = "simpleseganonymous/SimpleSeg"  # or "sthui/SimpleSeg"
+model_path = "sthui/SimpleSeg-Kimi-VL"  # or "sthui/SimpleSeg"
 model = AutoModelForCausalLM.from_pretrained(
     model_path,
     torch_dtype="auto",
