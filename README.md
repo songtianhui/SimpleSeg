@@ -47,7 +47,17 @@ Without introducing any complex architectures or special patterns, we show how e
 
 - Coming soon...
 
-## 4. Performance
+## 4. Model Variants
+
+We build SimpleSeg on two instantcs of VLM architectures: Qwen2.5-VL and Kimi-VL.
+
+| **Model** | **Type** | **Total Params** | **Download Link** |
+| :------------: | :------------: | :------------: | :------------: |
+| Qwen2.5-VL | Dense | 7B | [🤗 Hugging Face]() |
+| Kimi-VL | MoE | 16B-A3B | [🤗 Hugging Face]() |
+
+
+## 5. Performance
 
 ### Referring Expression Segmentation
 
@@ -94,7 +104,7 @@ Without introducing any complex architectures or special patterns, we show how e
 
 </div>
 
-## 5. Example usage
+## 6. Example usage
 
 ### Setup
 
