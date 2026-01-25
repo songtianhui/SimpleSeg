@@ -53,8 +53,8 @@ We build SimpleSeg on two instantcs of VLM architectures: Qwen2.5-VL and Kimi-VL
 
 | **Model** | **Type** | **Total Params** | **Download Link** |
 | :------------: | :------------: | :------------: | :------------: |
-| Qwen2.5-VL | Dense | 7B | [🤗 Hugging Face]() |
-| Kimi-VL | MoE | 16B-A3B | [🤗 Hugging Face]() |
+| Qwen2.5-VL | Dense | 7B | [🤗 Hugging Face](https://huggingface.co/sthui/SimpleSeg-Qwen2.5-VL) |
+| Kimi-VL | MoE | 16B-A3B | [🤗 Hugging Face](https://huggingface.co/sthui/SimpleSeg-Kimi-VL) |
 
 
 ## 5. Performance
