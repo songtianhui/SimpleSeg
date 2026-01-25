@@ -67,7 +67,10 @@ Without introducing any complex architectures or special patterns, we show how e
 | Text4Seg (w/ SAM)              | 79.2    | 81.7     | 75.6     | 72.8     | 77.9     | 66.5     | 74.0     | 75.3     | 75.4  |
 | **Decoder-free Models**        |         |          |          |          |          |          |          |          |       |
 | Text4Seg                       | 74.7    | 77.4     | 71.6     | 68.5     | 73.6     | 62.9     | 70.7     | 71.6     | 71.4  |
-| **SimpleSeg**                  | **76.9**    | **78.9**     | **73.6**     | **71.1**     | **75.2**     | **66.1**     | **72.8**     | **74.3**     | **73.6**  |
+| **SimpleSeg**-Qwen2.5-VL       | 80.9    | 77.8     | 75.2     | 72.4     | 77.3     | 66.1     | 73.3     | 74.1     | 74.6  |
+| **SimpleSeg**-Kimi-VL          | 80.0    | 80.6     | 76.2     | 70.4     | 76.2     | 67.1     | 72.8     | 74.7     | 74.8  |
+
+
 
 </div>
 
@@ -86,7 +89,8 @@ Without introducing any complex architectures or special patterns, we show how e
 | Text4Seg (w/ SAM)| 90.3        | 93.4          | 87.5          | 85.2        | 89.9          | 79.5          | 85.4         | 85.4          | 87.1 |
 | **Decoder-free Models** |             |               |               |             |               |               |              |               |      |
 | Text4Seg         | 88.3        | 91.4          | 85.8          | 83.5        | 88.2          | 77.9          | 82.4         | 82.5          | 85.0 |
-| **SimpleSeg**    | **90.5**        | **92.9**          | **86.8**          | **85.3**        | **89.5**          | **80.2**          | **86.1**         | **86.5**          | **87.2** |
+| **SimpleSeg**-Qwen2.5-VL | 90.2| 92.9          | 86.1          | 84.6        | 90.5          | 79.0          | 84.9         | 85.6          | 86.7 |
+| **SimpleSeg**-Kimi-VL    | 91.3| 92.1          | 87.1          | 82.6        | 88.3          | 79.3          | 84.6         | 86.3          | 86.5 |
 
 </div>
 
