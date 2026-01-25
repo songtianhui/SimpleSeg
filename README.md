@@ -125,7 +125,7 @@ We introduce how to use our model at inference stage using transformers library.
 from PIL import Image
 from transformers import AutoModelForCausalLM, AutoProcessor
 
-model_path = "sthui/SimpleSeg-Kimi-VL"  # or "sthui/SimpleSeg"
+model_path = "sthui/SimpleSeg-Kimi-VL"
 model = AutoModelForCausalLM.from_pretrained(
     model_path,
     torch_dtype="auto",
