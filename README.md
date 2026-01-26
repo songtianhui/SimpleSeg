@@ -3,7 +3,7 @@
   <b>
     <span>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span>
     <br/>
-    <img src="figures/logo.png" height="16" width="16" style="display: inline-block; vertical-align: middle; margin: 2px;"> Towards Pixel-level VLM Perception via Simple Points Prediction
+    <img src="figures/logo-new.png" height="16" width="16" style="display: inline-block; vertical-align: middle; margin: 2px;"> Towards Pixel-level VLM Perception via Simple Points Prediction
     <br/>
     <span>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span>
     <br/>
@@ -14,7 +14,7 @@
 
 
 <div align="center">
-  <a href=""><img src="figures/logo.png" height="16" width="16" style="vertical-align:middle"><b> Paper</b></a>  |  
+  <a href=""><img src="figures/logo-new.png" height="16" width="16" style="vertical-align:middle"><b> Paper</b></a>  |  
   <a href="https://huggingface.co/collections/sthui/simpleseg"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="16" width="16" style="vertical-align:middle"><b> HuggingFace</b></a>
 </div>
 
