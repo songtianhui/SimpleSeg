@@ -14,7 +14,8 @@
 
 
 <div align="center">
-  <a href=""><img src="figures/logo-new.png" height="16" width="16" style="vertical-align:middle"><b> Paper</b></a>  |  
+  <a href="https://simpleseg.github.io/"><img src="figures/logo-new.png" height="16" width="16" style="vertical-align:middle"><b> Homepage</b></a> | 
+  <a href=""><img src="figures/logo-new.png" height="16" width="16" style="vertical-align:middle"><b> Paper</b></a>  | 
   <a href="https://huggingface.co/collections/sthui/simpleseg"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="16" width="16" style="vertical-align:middle"><b> HuggingFace</b></a>
 </div>
 
