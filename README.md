@@ -46,7 +46,7 @@ Without introducing any complex architectures or special patterns, we show how e
 
 ## 3. News
 
-- Coming soon...
+- [2026/01/27] We release two model weights of SimpleSeg on the architecture of Qwen2.5-VL and Kimi-VL!
 
 ## 4. Model Variants
 
