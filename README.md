@@ -46,6 +46,7 @@ Without introducing any complex architectures or special patterns, we show how e
 
 ## 3. News
 
+- [2026/01/28] We release the paper on [Arxiv](https://arxiv.org/abs/2601.19228)!
 - [2026/01/27] We release two model weights of SimpleSeg on the architecture of Qwen2.5-VL and Kimi-VL!
 
 ## 4. Model Variants
