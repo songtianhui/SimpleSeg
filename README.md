@@ -209,10 +209,13 @@ For the data processing of contour coordinates, refer to [data/data.py](data/dat
 ## 8. Citation
 
 ```
-@article{simpleseg2025,
-    title={Towards Pixel-level VLM Perception via Simple Points Prediction},
-    author={Anonymous Authors},
-    journal={arXiv preprint},
-    year={2025}
+@misc{song2026pixellevelvlmperceptionsimple,
+      title={Towards Pixel-Level VLM Perception via Simple Points Prediction}, 
+      author={Tianhui Song and Haoyu Lu and Hao Yang and Lin Sui and Haoning Wu and Zaida Zhou and Zhiqi Huang and Yiping Bao and Y. Charles and Xinyu Zhou and Limin Wang},
+      year={2026},
+      eprint={2601.19228},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2601.19228}, 
 }
 ```
